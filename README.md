@@ -17,8 +17,6 @@ Meu nome é Emerson Barreto mas pode me chamar de "Barreto.Dev"!
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
 
-
-
 ## 📊 Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=emersonescodes&show_icons=true&theme=dracula)](https://github.com/emersonescodes)
@@ -28,11 +26,6 @@ Meu nome é Emerson Barreto mas pode me chamar de "Barreto.Dev"!
 ## 🌱 Atualmente Aprendendo
 
 Estou focado em aprimorar minhas habilidades em JavaScript com foco em front-end. Estou sempre em busca de cursos e projetos práticos que me desafiem e expandam meu conhecimento.
-
-## 📫 Como Entrar em Contato
-
-- LinkedIn: https://www.linkedin.com/in/emerson-codes78/
-- E-mail: emersoncodes@gmail.com
 
 ## 🚀 Metas Profissionais
 
