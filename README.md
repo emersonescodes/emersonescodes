@@ -1,7 +1,10 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Emerson Barreto and my nickname is "Barreto.Dev"!
-
-Sou apaixonado por tecnologia e estou sempre em busca de desafios que me permitam aprender e evoluir. Aqui no meu perfil do GitHub, você encontrará projetos que refletem meu interesse em desenvolvimento de software.
+My name is Emerson Barreto and my nickname is "Barreto.Dev"!
+<div>
+<a href="https://instagram.com/barreto.dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:emersoncodes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emerson-codes78" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ## 🔧 Tecnologias
 
