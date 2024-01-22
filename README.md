@@ -9,11 +9,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de desafios que me permita
 
 ## 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=emersonescodes&show_icons=true&theme=dracula)](https://github.com/emersonescodes)
-
-## Linguagens Mais Utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonescodes&layout=compact&theme=dracula)](https://github.com/emersonescodes)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=emersonescodes&show_icons=true&theme=dracula)](https://github.com/emersonescodes) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonescodes&layout=compact&theme=dracula)](https://github.com/emersonescodes)
 
 ## 🌱 Atualmente Aprendendo
 
